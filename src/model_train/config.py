@@ -1,4 +1,4 @@
-iDATA_NAME = "accel_ms2_xyz"
+DATA_NAME = "accel_ms2_xyz"
 LABEL_NAME = "gesture"
 
 # label name (you should keep "negative" in the end of the list)
